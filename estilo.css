@@ -1,0 +1,155 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f4f4f4;
+  margin: 0;
+  padding: 20px;
+}
+
+.container {
+  background: white;
+  padding: 15px;
+  border: 1px solid #ccc;
+}
+
+h1 {
+  text-align: center;
+  font-size: 22px;
+  margin-bottom: 15px;
+}
+
+.udi-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 13px;
+}
+
+.udi-table td {
+  border: 1px solid #444;
+  padding: 6px;
+  vertical-align: top;
+}
+
+.marca {
+  background-color: #fff2b6;
+  font-weight: bold;
+}
+
+.otroes {
+  background: #ffcc00;
+  text-align: center;
+  font-weight: bold;
+  color: rgb(0, 0, 0);
+}
+
+.section-title {
+  background: #7fd1e6;
+  color: rgb(0, 0, 0);
+  text-align: center;
+  font-weight: bold;
+}
+
+.section-title.yellow {
+  background: #ffcc00;
+  color: black;
+  font-weight: bold;
+}
+
+.metodologia td:nth-child(1) { width: 3%; }
+.metodologia td:nth-child(even) { width: 2%; }
+.metodologia td:nth-child(3) { width: 12%; }
+.metodologia td:nth-child(5) { width: 7%; }
+.metodologia td:nth-child(7) { width: 3%; }
+.metodologia td:nth-child(9) { width: 4%; }
+.metodologia td:nth-child(11) { width: 5%; }
+.metodologia td:nth-child(13) { width: 10%; }
+.metodologia td:nth-child(15) { width: 12%; }
+
+.section-title.blue {
+  background: #55a5ce;
+  font-weight: bold;
+}
+
+.area {
+  background: #7fd1e6;
+  width: 20%;
+  font-weight: bold;
+}
+
+.areas td:nth-child(1) { width: 12%; }
+.areas td:nth-child(2) { width: 24%; }
+.areas td:nth-child(3) { width: 17%; }
+.areas td:nth-child(4) { width: 20%; }
+
+.header-row td {
+  background: #7fd1e6;
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  text-align: center;
+}
+
+.big-cell {
+  height: 60px;
+}
+
+.recursos .marca {
+  background: #fff2b6;
+  font-weight: bold;
+  padding: 10px;
+  vertical-align: top;
+  width: 14%;
+  font-weight: bold;
+}
+
+.recursos .contenido {
+  height: 40px;
+}
+
+.recursos td:nth-child(1) { width: 6%; }
+.recursos td:nth-child(2) { width: 17%; }
+.recursos td:nth-child(3) { width: 10%; }
+.recursos td:nth-child(4) { width: 15%; }
+.recursos td:nth-child(5) { width: 3%; }
+.recursos td:nth-child(6) { width: 14%; }
+
+.zones td {
+  text-align: center;
+  font-weight: bold;
+  color: rgb(0, 0, 0);
+}
+
+.zonas td:nth-child(n) { width: 16%; }
+
+.pink { background: #ff21da; }
+.purple { background: #b4a9d6; }
+.red { background: #ff0400; }
+.green { background: #ace675; }
+.yellow2 { background: #ffee00; color: black; }
+.orange { background: #fb8c00; }
+
+.empty-row2 td {
+  height: 50px;        
+  padding-top: 14px;   
+  padding-bottom: 14px;
+}
+
+.empty-row td {
+  height: 30px;        
+  padding-top: 14px;   
+  padding-bottom: 14px;
+}
+
+.aprendizaje td:nth-child(1) { width: 5%; }
+.aprendizaje td:nth-child(even) { width: 2%; }
+.aprendizaje td:nth-child(3) { width: 4%; }
+.aprendizaje td:nth-child(5) { width: 5%; }
+.aprendizaje td:nth-child(7) { width: 5%; }
+.aprendizaje td:nth-child(9) { width: 11%; }
+.aprendizaje td:nth-child(11) { width: 4%; }
+.aprendizaje td:nth-child(13) { width: 5%; }
+.aprendizaje td:nth-child(14) { width: 12%; }
+
+.actividades td:nth-child(1) { width: 3%; }
+.actividades td:nth-child(2) { width: 8%; }
+.actividades td:nth-child(3) { width: 52%; }
+.actividades td:nth-child(5) { width: 10%; }
+
